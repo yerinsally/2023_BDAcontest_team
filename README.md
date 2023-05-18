@@ -1,7 +1,13 @@
 # BDA_CJTheMarket
 ## CJTheMarket 크롤링
 
-## ctgrId
+### crawling_cj.csv 
+- 카테고리별 데이터프레임 합쳐놓은 데이터프레임 (총합)
+
+* crawling_cj0018.csv ~ crawling_cj0010.csv 
+- 카테고리 번호별 데이터프레임 (개별)
+
+### ctgrId
 
 밥/죽/면 : 0018
   
