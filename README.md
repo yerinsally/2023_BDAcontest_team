@@ -1,7 +1,7 @@
 # BDA_CJTheMarket
 ## CJTheMarket 크롤링
 
-<ctgrId>
+## ctgrId
 
 밥/죽/면 : 0018
   
