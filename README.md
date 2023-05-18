@@ -1,6 +1,8 @@
 # BDA_CJTheMarket
 ## CJTheMarket 크롤링
-### <ctgrId>
+
+<ctgrId>
+
 밥/죽/면 : 0018
   
 국/김치/김/반찬/두부 : 0019
