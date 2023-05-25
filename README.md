@@ -28,3 +28,6 @@
 - cj_test.csv
 - test 데이터 전처리.ipynb
 
+#### 가설검증
+- 가설검증.ipynb
+
