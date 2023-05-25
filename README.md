@@ -7,5 +7,6 @@
 - num_category 열은 제거하는 게 성능이 더 좋게 나옴 (현재 데이터프레임엔 일단 포함시킴)
 
 ## 성연
-- cj_y_grp.csv
-- cj_n_grp.csv
+- cj_cate2.csv
+- 데이터 전처리_가설검증_cate2.ipynb
+가장 성능이 높게 나온 데이터셋
