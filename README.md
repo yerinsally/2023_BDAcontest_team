@@ -25,6 +25,6 @@
 - 데이터 전처리_가설검증_cate2.ipynb
 
 #### cj_cate2.csv와 컬럼을 맞춘 테스트 데이터
--cj_test.csv
+- cj_test.csv
 - test 데이터 전처리.ipynb
 
